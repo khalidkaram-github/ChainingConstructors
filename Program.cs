@@ -13,7 +13,7 @@
         public int Age { get; set; }
         public string Name { get; set; }
 
-        public User() : this(10, "ahmed")
+        public User() : this(10)
         {
 
         }
